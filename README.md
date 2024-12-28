@@ -1,1 +1,1 @@
-Franztest.github.io
+Franz.github.io
